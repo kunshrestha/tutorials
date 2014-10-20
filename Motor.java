@@ -1,3 +1,4 @@
+//THisis edited
 /*Class to define machine with Motor type
  */
 public class Motor extends Machine {
